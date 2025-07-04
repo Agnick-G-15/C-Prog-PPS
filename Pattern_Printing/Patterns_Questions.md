@@ -94,3 +94,37 @@ Question 14
     1 2
    1 2 3
   1 2 3 4
+
+
+
+
+Question 15
+1 
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+
+
+
+Question 16
+    * 
+   * *
+  * * *
+ * * * *
+* * * * *
+
+
+
+Question17
+
+
+
+
+
+Question 18
+A
+AB
+ABC
+ABCD
+ABCDE
