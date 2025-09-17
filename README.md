@@ -12,4 +12,4 @@ This repository contains a collection of C programs and assignments designed to 
 ✅ Functions
 ✅ Arrays (1D & 2D)
 ✅ Pattern Printing
-📂 Repository Structure
+
